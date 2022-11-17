@@ -17,12 +17,19 @@ body {
 
 
 /* ID selector to select the element with id 'main-header' */
+ #main-header {
+  color: red;
+  font-size: 22px;
+ }
+  
+
  
   
-  color:red
+  
 
 
 /* Class selector to select elements containing the class 'perspective-questions' */
-.perspective-questions {font-style: italic;
+.perspective-questions {
+  font-style: italic;
   
 }
